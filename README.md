@@ -71,13 +71,13 @@ PORT=5000
 
 ## ✨ Funcionalidades
 
-✅ Login com e-mail e redes sociais
-✅ Busca de produtos
-✅ Carrinho de compras
-✅ Rastreamento em tempo real
-✅ Notificações push
-✅ Histórico de pedidos
-✅ Sistema de cupons
+    - ✅ Login com e-mail e redes sociais
+    - ✅ Busca de produtos
+    - ✅ Carrinho de compras
+    - ✅ Rastreamento em tempo real
+    - ✅ Notificações push
+    - ✅ Histórico de pedidos
+    - ✅ Sistema de cupons
 
 🧰 Tecnologias Utilizadas
 
